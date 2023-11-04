@@ -471,6 +471,20 @@
       line-height: 20px;
       margin-bottom: 8px;
       }
+      #thanks{
+        height: 15vh;
+        width: 100%;
+        background:linear-gradient(to left bottom, black,yellow);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      #thanks h3{
+        color:#fff;
+        font-weight: 900;
+        font-size: 30px;
+
+      }
       #copyright{
         height: 10vh;
         width: 100%;
